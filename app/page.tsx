@@ -194,7 +194,7 @@ export default function Page() {
       <header className="text-center space-y-3">
         <h1>AE Gen – Generator Apelu Ewangelicznego</h1>
         <p className="muted max-w-2xl mx-auto">
-          Wpisz datę oraz sigla biblijne (np. "J 2,1-12"). Opcjonalnie dodaj krótki fragment
+          Wpisz datę oraz sigla biblijne (np. &quot;J 2,1-12&quot;). Opcjonalnie dodaj krótki fragment
           tekstu. Otrzymasz kompletny apel gotowy do wykorzystania na zbiórce.
         </p>
       </header>
